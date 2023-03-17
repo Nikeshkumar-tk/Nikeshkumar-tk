@@ -9,7 +9,7 @@ I am a full stack web developer with deep passion in web development and interes
 * 🌍  I'm based in Kerala
 * 🖥️  See my portfolio at [Portfolio](http://nikeshkumar-tk.netlify.app/)
 * ✉️  You can contact me at [nikeshkumartk2020@gmail.com](mailto:nikeshkumartk2020@gmail.com)
-* 🧠  I'm learning Material Ui
+* 🧠  I'm now exploring
 
 ### Skills
 
