@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack web developer
 ------------------------
 
-I am a full stack web developer with deep passion in web development and interesting in learning new technological stuffs
-
+I am a Software Engineer.
 * 🌍  I'm based in Kerala
 * 🖥️  See my portfolio at [Portfolio](http://nikeshkumar-tk.netlify.app/)
 * ✉️  Contact me at [nikeshkumartk2020@gmail.com](mailto:nikeshkumartk2020@gmail.com)
