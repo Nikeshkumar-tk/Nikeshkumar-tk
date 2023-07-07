@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Typescripter
 ------------
 
-I Enjoys building app and exploring new stuffs.
+I Enjoy building apps and exploring new stuffs.
 
 * 🌍  I'm based in Kerala
 * 🖥️  See my portfolio at [Portfolio](http://nikeshkumar-tk.netlify.app/)
