@@ -9,7 +9,7 @@ I Enjoy building apps and exploring new stuffs.
 * 🌍  I'm based in Kerala
 * 🖥️  See my portfolio at [Portfolio](http://nikeshkumar-tk.netlify.app/)
 * ✉️  You can contact me at [nikeshkumartk2020@gmail.com](mailto:nikeshkumartk2020@gmail.com)
-* 🧠  I'm learning Material Ui
+* 🧠  Exploring AWS
 
 ### Skills
 
