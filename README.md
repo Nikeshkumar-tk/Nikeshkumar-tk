@@ -6,7 +6,7 @@ Typescripter
 
 I Enjoy building apps and exploring new stuffs.
 
-* 🌍  I'm based in Kerala
+* 🌍  I'm based in Pune, India
 * 🖥️  Exploring and new technologies
 * ✉️  You can contact me at [nikeshkumartk2020@gmail.com](mailto:nikeshkumartk2020@gmail.com)
 * 🧠  Opensource enthusiast
