@@ -7,9 +7,9 @@ Typescripter
 I Enjoy building apps and exploring new stuffs.
 
 * 🌍  I'm based in Kerala
-* 🖥️  See my portfolio at [Portfolio](http://nikeshkumar-tk.netlify.app/)
+* 🖥️  Exploring and new technologies
 * ✉️  You can contact me at [nikeshkumartk2020@gmail.com](mailto:nikeshkumartk2020@gmail.com)
-* 🧠  Exploring AWS
+* 🧠  Opensource enthusiast
 
 ### Skills
 
