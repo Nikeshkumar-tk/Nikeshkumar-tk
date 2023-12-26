@@ -10,6 +10,7 @@ I Enjoy building apps and exploring new stuffs.
 * 🖥️  Exploring and new technologies
 * ✉️  You can contact me at [nikeshkumartk2020@gmail.com](mailto:nikeshkumartk2020@gmail.com)
 * 🧠  Opensource enthusiast
+* 📃  Read my blogs at [medium](https://medium.com/@nikeshkumartk2020)
 
 ### Skills
 
